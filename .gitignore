@@ -1,0 +1,15 @@
+Face Mask Dataset
+archive.zip
+haarcascade_frontalface_default.xml
+detection.py
+requirements.txt
+weights--01-0.89.hdf5
+weights--03-0.93.hdf5
+weights--06-0.95.hdf5
+weights--09-0.96.hdf5
+weights--15-0.97.hdf5
+weights--25-0.97.hdf5
+weights--27-0.98.hdf5
+weights--11-0.96.hdf5
+weights--26-0.97.hdf5
+model.h5
